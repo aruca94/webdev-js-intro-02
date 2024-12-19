@@ -20,7 +20,7 @@ function updateYear() {
 }
 
 function updateResolution() {
-    // Update this function 
+    // Update this function
     resolutionElement.innerText = resolution;
 
 }
