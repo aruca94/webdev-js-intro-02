@@ -39,17 +39,17 @@ To view the project locally, you can either open the project files in your code 
 
 - [X] Navigate to the Assignment Page
 - [X] Read the assignment overview and output section.
-- [ ] In `assignment.js`:
-    - [ ] Create an immutable variable named `resolution` and assign it the appropriate value.
-    - [ ] Create an immutable variable named `currentYear` and assign it the appropriate value.
-    - [ ] Create a mutable variable named `willMeetResolution` and assign it the appropriate value.
-    - [ ] Update the all the empty functions.
+- [X] In `assignment.js`:
+    - [X] Create an immutable variable named `resolution` and assign it the appropriate value.
+    - [X] Create an immutable variable named `currentYear` and assign it the appropriate value.
+    - [X] Create a mutable variable named `willMeetResolution` and assign it the appropriate value.
+    - [X] Update the all the empty functions.
 
 
 ### Tips
 - Push a commit for each task completed. Include a meaningfull commit message.
 - Before the above, update the readme task list to track your progress. To do this, enter x between the brackets.
-- Get used to using your browser's developer tools now. For now, become familiar with: 
+- Get used to using your browser's developer tools now. For now, become familiar with:
     - Toggling between desktop mode and device emulation/responsive mode.
     - Using inspector mode to inspect elements.
 - If you get stuck, please remember that you have various resources available to you.
